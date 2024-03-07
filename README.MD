@@ -14,7 +14,7 @@ On MacOS using Homebrew:
 On Windows using Scoop:
 1. `scoop install opencv`
 2. `scoop install cmake`
-3. `scoop install make
+3. `scoop install make`
 
 On Linux:
 1.Use your linux knowledge :)
