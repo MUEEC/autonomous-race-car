@@ -17,4 +17,4 @@ On Windows using Scoop:
 3. `scoop install make`
 
 On Linux:
-1.Use your linux knowledge :)
+1. Use your linux knowledge :)
